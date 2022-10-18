@@ -1,0 +1,3 @@
+﻿  Card.c
+C:\Users\Peter\Desktop\FWD\Payment App\Payment App\Card\Card.c(14,15): warning C4013: 'strlen' undefined; assuming extern returning int
+  Payment App.vcxproj -> C:\Users\Peter\Desktop\FWD\Payment App\Payment App\x64\Debug\Payment App.exe
